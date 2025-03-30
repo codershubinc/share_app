@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "share"
+rootProject.name = "MyTestAplicationKT"
 include(":app")
+ 
