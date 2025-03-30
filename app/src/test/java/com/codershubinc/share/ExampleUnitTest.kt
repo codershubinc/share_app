@@ -1,4 +1,4 @@
-package com.codershubinc.mytestaplicationkt
+package com.codershubinc.share
 
 import org.junit.Test
 

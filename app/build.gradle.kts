@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.codershubinc.mytestaplicationkt"
+    namespace = "com.codershubinc.share"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.codershubinc.mytestaplicationkt"
+        applicationId = "com.codershubinc.share"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
